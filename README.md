@@ -5,7 +5,7 @@
 - Music and photography lover
 
 # 🌐 Social Media:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lylaret_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lylaret) [![](https://visitcount.itsvg.in/api?id=andresgmg&icon=0&color=1)](https://visitcount.itsvg.in/analytics/Lylaret)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lylaret_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lylaret)
 
 # 💻 Tech Stack:
 
